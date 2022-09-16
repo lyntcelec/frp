@@ -1,3 +1,4 @@
+rm -rf /root/frpc.ini
 tee -a /root/frpc.ini <<EOF
 [common]
 user = $CLIENT_USER
