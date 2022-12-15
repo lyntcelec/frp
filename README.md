@@ -34,4 +34,5 @@ docker run --network=host --env CLIENT_USER="myhome" --env CLIENT_PORT=8123 --en
 ```
 151191/tunneling:latest : x64, x86
 151191/tunneling:arm32 : ARM32, Orange Pi PC +
+151191/tunneling:arm64 : ARM64, Raspberry Pi 3, 4
 ```
